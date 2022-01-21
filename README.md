@@ -41,4 +41,5 @@ Meu objetivo com programação este ano é me tornar um programador melhor que d
 
 **Conteúdos**
 - **2022-01-19:** [Métodos de Array em JavaScript](https://medium.com/@Francisco-Thiago/7-metodos-de-array-que-voce-precisa-conhecer-bb088f5107a3).
+- **2022-01-21:** [Comandos básicos de Terminal](https://medium.com/@Francisco-Thiago/aquele-comando-de-terminal-546712f05420).
 
