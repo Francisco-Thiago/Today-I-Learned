@@ -36,10 +36,10 @@ Meu objetivo com programação este ano é me tornar um programador melhor que d
 - [x] Aprender mais métodos de Array em JavaScript.
 - [ ] Aprender expressões regulares em JavaScript.
 - [ ] Dominar os comandos de git.
-- [ ] Iniciar estudos de Node.js
+- [x] Iniciar estudos de Node.js
 - [ ] Iniciar estudos de React.
 
 **Conteúdos**
 - **2022-01-19:** [Métodos de Array em JavaScript](https://medium.com/@Francisco-Thiago/7-metodos-de-array-que-voce-precisa-conhecer-bb088f5107a3).
 - **2022-01-21:** [Comandos básicos de Terminal](https://medium.com/@Francisco-Thiago/aquele-comando-de-terminal-546712f05420).
-
+- **2022-01-22:** [Node.js](https://github.com/Francisco-Thiago/Today-I-Learned/blob/main/Notas/Node.js/comandos-basicos.md).
