@@ -9,7 +9,7 @@ Meu objetivo com programação este ano é me tornar um programador melhor que d
     <th colspan="3">Calendário de estudos</td>
   </tr>
   <tr>
-    <td><a href="#" target="_blank">Janeiro</a></td>
+    <td><a href="https://github.com/Francisco-Thiago/Today-I-Learned/blob/main/2022/JANEIRO.md" target="_blank">Janeiro</a></td>
     <td><a href="#" target="_blank">Fevereiro</a></td>
     <td><a href="#" target="_blank">Março</a></td>
   </tr>
@@ -31,15 +31,13 @@ Meu objetivo com programação este ano é me tornar um programador melhor que d
 </table>
 
 ---
-# Janeiro (Mês atual)
+# Fevereiro (Mês atual)
 **Objetivos deste mês**
-- [x] Aprender mais métodos de Array em JavaScript.
-- [ ] Aprender expressões regulares em JavaScript.
-- [ ] Dominar os comandos de git.
-- [x] Iniciar estudos de Node.js
-- [ ] Iniciar estudos de React.
+- [x] Dominar os comandos de git.
+- [ ] Aprender MySQL.
+- [ ] Aprofundar conhecimentos em Node.js
+- [ ] Criar no mínimo 2 projetos utilizando Node.js e MySQL.
+
 
 **Conteúdos**
-- **2022-01-19:** [Métodos de Array em JavaScript](https://medium.com/@Francisco-Thiago/7-metodos-de-array-que-voce-precisa-conhecer-bb088f5107a3).
-- **2022-01-21:** [Comandos básicos de Terminal](https://medium.com/@Francisco-Thiago/aquele-comando-de-terminal-546712f05420).
-- **2022-01-22:** [Node.js](https://github.com/Francisco-Thiago/Today-I-Learned/blob/main/Notas/Node.js/comandos-basicos.md).
+- **2022-02-02**: Git e Github.
