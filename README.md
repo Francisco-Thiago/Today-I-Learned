@@ -41,3 +41,6 @@ Meu objetivo com programação este ano é me tornar um programador melhor que d
 
 **Conteúdos**
 - **2022-02-02**: Git e Github.
+- **2022-02-05**: Aprofundando conhecimentos de Git, Lógica de Programação.
+- **2022-02-06**: Revisão de Algoritmos, fundamentos da programação e iniciando estudos de MySQL com phpmyadmin.
+- **2022-02-07**: Iniciando estudos de Bootstrap.
